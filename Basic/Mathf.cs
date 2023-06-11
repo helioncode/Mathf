@@ -1,7 +1,6 @@
 using System;
 
-public class Math
-{
+public class MathF{
     static void Main(string[] args){
         #region Math function
         double number = -5.5;
