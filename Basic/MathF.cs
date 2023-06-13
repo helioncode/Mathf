@@ -4,7 +4,6 @@ public class MathF{
     static void Main(string[] args){
         #region Math function
         double number = -5.5;
-
         // Absolute value
         double absoluteValue = Math.Abs(number);
         Console.WriteLine("Absolute value of " + number + " is: " + absoluteValue);
@@ -37,5 +36,16 @@ public class MathF{
         double e = Math.E;
         Console.WriteLine("The value of e is: " + e);
         #endregion
+
+        //sigma
+        int sum = 0;
+        for (int i = 0; i < 100; i++)
+        {
+            sum += i;
+        }
+
+        int n = 100;
+        sum = (n * (n + 1)) / 2;
+        Console.WriteLine(sum);
     }
 }
