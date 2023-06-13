@@ -1,1 +1,3 @@
-ArithMetic
+- ArithMetic
+- Algebra
+- Calculus

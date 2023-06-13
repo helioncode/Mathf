@@ -1,1 +1,4 @@
 1. Basic Fundamental
+
+Python
+https://platform.openai.com/docs/api-reference/authentication
