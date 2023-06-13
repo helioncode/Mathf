@@ -1,4 +1,5 @@
-1. Basic Fundamental
+- Basic Fundamental
 
->> API <<
-https://platform.openai.com/docs/api-reference/
+1. Understanding
+2. Remembering
+3. Practice
